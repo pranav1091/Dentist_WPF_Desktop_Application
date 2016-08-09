@@ -1,0 +1,11 @@
+﻿<Window x:Class="DentalApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="720" Width="1280" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Icon="Images/dentist-913014_960_720.png">
+    <Grid>
+        <Image Source="Images/clinicpic6.jpg" Stretch="Fill"/>
+        <Image x:Name="img_btn_typesofdentist" HorizontalAlignment="Left" Height="336" Margin="302,307,0,0" VerticalAlignment="Top" Width="386" Source="Images/dentist-cartoon-clipart-1.jpg" ToolTip="Types of Dentist" Cursor="Hand" Focusable="True" MouseDown="img_btn_typesofdentist_MouseDown"/>
+        <Image HorizontalAlignment="Left" Height="224" Margin="601,78,0,0" VerticalAlignment="Top" Width="262" Cursor="Hand" Source="Images/RcGG44jai.jpg" ToolTip="Types of Dental Problems"/>
+        <MediaElement HorizontalAlignment="Left" Height="316" Margin="775,266,0,0" VerticalAlignment="Top" Width="428" Source="VID_20150801_145546.mp4"/>
+    </Grid>
+</Window>

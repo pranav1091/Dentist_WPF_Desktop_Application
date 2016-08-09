@@ -1,0 +1,16 @@
+G:\projects\DentalApp\DentalApp\bin\Debug\DentalApp.exe.config
+G:\projects\DentalApp\DentalApp\bin\Debug\DentalApp.exe
+G:\projects\DentalApp\DentalApp\bin\Debug\DentalApp.pdb
+G:\projects\DentalApp\DentalApp\obj\Debug\DentalApp.csprojResolveAssemblyReference.cache
+G:\projects\DentalApp\DentalApp\obj\Debug\MainWindow.baml
+G:\projects\DentalApp\DentalApp\obj\Debug\MainWindow.g.cs
+G:\projects\DentalApp\DentalApp\obj\Debug\App.g.cs
+G:\projects\DentalApp\DentalApp\obj\Debug\DentalApp_MarkupCompile.cache
+G:\projects\DentalApp\DentalApp\obj\Debug\DentalApp.g.resources
+G:\projects\DentalApp\DentalApp\obj\Debug\DentalApp.Properties.Resources.resources
+G:\projects\DentalApp\DentalApp\obj\Debug\DentalApp.csproj.GenerateResource.Cache
+G:\projects\DentalApp\DentalApp\obj\Debug\DentalApp.exe
+G:\projects\DentalApp\DentalApp\obj\Debug\DentalApp.pdb
+G:\projects\DentalApp\DentalApp\obj\Debug\DentistInformation.baml
+G:\projects\DentalApp\DentalApp\obj\Debug\DentistInformation.g.cs
+G:\projects\DentalApp\DentalApp\obj\Debug\DentalApp_Content.g.cs
